@@ -1,5 +1,7 @@
 # Customer-Segmentation
 Customer segmentation project using K-Means to group shoppers based on income and spending behavior. Helps businesses target marketing strategies for different customer types.
+
+
 🧩 Project Objective:
 Segment customers into distinct groups based on their annual income and spending behavior using unsupervised machine learning techniques. This allows businesses to tailor marketing strategies and enhance customer experience.
 
